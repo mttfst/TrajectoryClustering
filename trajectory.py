@@ -96,3 +96,5 @@ if __name__ == "__main__":
     assert(l == 3 * sqrt(2))
 
     print("TEST END")
+
+print('test change')
